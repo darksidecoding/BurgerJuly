@@ -1,23 +1,23 @@
 [
     {
-        'id': '0',
-        'name': 'burger',
-        'coverImage': 'https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/burger/burger1.jpg',
-        'list': 'With chimichurri sauce With salmon lemon and dill Three cheeses With pork and mango',
-        'linkItems': 'https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/db/burger_db.json'
+        "id": "0",
+        "name": "burger",
+        "coverImage": "https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/burger/burger1.jpg",
+        "list": "With chimichurri sauce With salmon lemon and dill Three cheeses With pork and mango",
+        "linkItems": "https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/db/burger_db.json"
     },
     {
-        'id': '1',
-        'name': 'pizza',
-        'coverImage': 'https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/pizza/pizza1.jpg',
-        'list': 'With chimichurri sauce With salmon lemon and dill Three cheeses With pork and mango',
-        'linkItems': 'https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/db/pizza_db.json'
+        "id": "1",
+        "name": "pizza",
+        "coverImage": "https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/pizza/pizza1.jpg",
+        "list": "With chimichurri sauce With salmon lemon and dill Three cheeses With pork and mango",
+        "linkItems": "https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/db/pizza_db.json"
     },
     {
-        'id': '2',
-        'name': 'rolls',
-        'coverImage': 'https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/roll/roll1.jpg',
-        'list': 'With chimichurri sauce With salmon lemon and dill Three cheeses, With pork and mango',
-        'linkItems': 'https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/db/roll_db.json'
+        "id": "2",
+        "name": "rolls",
+        "coverImage": "https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/roll/roll1.jpg",
+        "list": "With chimichurri sauce With salmon lemon and dill Three cheeses, With pork and mango",
+        "linkItems": "https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/db/roll_db.json"
     }
 ]
