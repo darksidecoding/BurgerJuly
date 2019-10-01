@@ -3,8 +3,38 @@
         "id": "0",
         "name": "With chimichurri sauce",
         "description": "beef, sesame seed bun, smoked gouda cheese, Red onion",
-        "count": [2,4,6],
-        "price": [12, 15, 18],
+        "count": [
+            {
+                "name": "min",
+                "counts": "2"
+            },
+            
+            {
+                "name": "middle",
+                "counts": "4"
+            },
+            
+            {
+                "name": "max",
+                "counts": "8"
+            }
+        ],
+        "price": [
+            {
+                "name": "min",
+                "prices": "2"
+            },
+            
+            {
+                "name": "middle",
+                "prices": "4"
+            },
+            
+            {
+                "name": "max",
+                "prices": "8"
+            }
+        ],
         "image": "https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/burger/burger1.jpg"
     },
     {
@@ -12,14 +42,36 @@
         "name": "With salmon, lemon and dill",
         "description": "salmon fillet, breadcrumbs sesame seed bun, radish, egg white",
         "count": [
-            {"count1": "2"},
-            {"count2": "4"},
-            {"count3": "6"}
+            {
+                "name": "min",
+                "counts": "2"
+            },
+            
+            {
+                "name": "middle",
+                "counts": "4"
+            },
+            
+            {
+                "name": "max",
+                "counts": "8"
+            }
         ],
         "price": [
-            {"price1": "12"},
-            {"price2": "14"},
-            {"price3": "16"}
+            {
+                "name": "min",
+                "prices": "2"
+            },
+            
+            {
+                "name": "middle",
+                "prices": "4"
+            },
+            
+            {
+                "name": "max",
+                "prices": "8"
+            }
         ],
         "image": "https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/burger/burger2.jpg"
     },
@@ -28,14 +80,36 @@
         "name": "Three cheeses",
         "description": "beef, sesame seed bun, small tomato, mozzarella, cheddar and emmental",
         "count": [
-            {"count1": "2"},
-            {"count2": "4"},
-            {"count3": "6"}
+            {
+                "name": "min",
+                "counts": "2"
+            },
+            
+            {
+                "name": "middle",
+                "counts": "4"
+            },
+            
+            {
+                "name": "max",
+                "counts": "8"
+            }
         ],
         "price": [
-            {"price1": "12"},
-            {"price2": "14"},
-            {"price3": "16"}
+            {
+                "name": "min",
+                "prices": "2"
+            },
+            
+            {
+                "name": "middle",
+                "prices": "4"
+            },
+            
+            {
+                "name": "max",
+                "prices": "8"
+            }
         ],
         "image": "https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/burger/burger3.jpg"
     },
@@ -44,14 +118,36 @@
         "name": "With pork and mango",
         "description": "pork, burger rolls, jalapeno pepper, shallot",
         "count": [
-            {"count1": "2"},
-            {"count2": "4"},
-            {"count3": "6"}
+            {
+                "name": "min",
+                "counts": "2"
+            },
+            
+            {
+                "name": "middle",
+                "counts": "4"
+            },
+            
+            {
+                "name": "max",
+                "counts": "8"
+            }
         ],
         "price": [
-            {"price1": "12"},
-            {"price2": "14"},
-            {"price3": "16"}
+            {
+                "name": "min",
+                "prices": "2"
+            },
+            
+            {
+                "name": "middle",
+                "prices": "4"
+            },
+            
+            {
+                "name": "max",
+                "prices": "8"
+            }
         ],
         "image": "https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/burger/burger4.jpg"
     }
