@@ -5,16 +5,19 @@
         "description": "beef, sesame seed bun, smoked gouda cheese, Red onion",
         "count": [
             {
+                "id": "0",
                 "name": "min",
                 "counts": "2"
             },
             
             {
+                "id": "1",
                 "name": "middle",
                 "counts": "4"
             },
             
             {
+                "id": "2",
                 "name": "max",
                 "counts": "8"
             }
@@ -43,16 +46,19 @@
         "description": "salmon fillet, breadcrumbs sesame seed bun, radish, egg white",
         "count": [
             {
+                "id": "0",
                 "name": "min",
                 "counts": "2"
             },
             
             {
+                "id": "1",
                 "name": "middle",
                 "counts": "4"
             },
             
             {
+                "id": "2",
                 "name": "max",
                 "counts": "8"
             }
@@ -81,16 +87,19 @@
         "description": "beef, sesame seed bun, small tomato, mozzarella, cheddar and emmental",
         "count": [
             {
+                "id": "0",
                 "name": "min",
                 "counts": "2"
             },
             
             {
+                "id": "1",
                 "name": "middle",
                 "counts": "4"
             },
             
             {
+                "id": "2",
                 "name": "max",
                 "counts": "8"
             }
@@ -119,16 +128,19 @@
         "description": "pork, burger rolls, jalapeno pepper, shallot",
         "count": [
             {
+                "id": "0",
                 "name": "min",
                 "counts": "2"
             },
             
             {
+                "id": "1",
                 "name": "middle",
                 "counts": "4"
             },
             
             {
+                "id": "2",
                 "name": "max",
                 "counts": "8"
             }
