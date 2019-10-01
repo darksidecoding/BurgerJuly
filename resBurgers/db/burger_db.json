@@ -11,24 +11,48 @@
         "id": "1",
         "name": "With salmon, lemon and dill",
         "description": "salmon fillet, breadcrumbs sesame seed bun, radish, egg white",
-        "count": [2,4,6],
-        "price": [12, 15, 18],
+        "count": [
+            {"count1": "2"},
+            {"count2": "4"},
+            {"count3": "6"}
+        ],
+        "price": [
+            {"price1": "12"},
+            {"price2": "14"},
+            {"price3": "16"}
+        ],
         "image": "https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/burger/burger2.jpg"
     },
     {
         "id": "2",
         "name": "Three cheeses",
         "description": "beef, sesame seed bun, small tomato, mozzarella, cheddar and emmental",
-        "count": [2,4,6],
-        "price": [12, 15, 18],
+        "count": [
+            {"count1": "2"},
+            {"count2": "4"},
+            {"count3": "6"}
+        ],
+        "price": [
+            {"price1": "12"},
+            {"price2": "14"},
+            {"price3": "16"}
+        ],
         "image": "https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/burger/burger3.jpg"
     },
     {
         "id": "3",
         "name": "With pork and mango",
         "description": "pork, burger rolls, jalapeno pepper, shallot",
-        "count": [2,4,6],
-        "price": [12, 15, 18],
+        "count": [
+            {"count1": "2"},
+            {"count2": "4"},
+            {"count3": "6"}
+        ],
+        "price": [
+            {"price1": "12"},
+            {"price2": "14"},
+            {"price3": "16"}
+        ],
         "image": "https://raw.githubusercontent.com/darksidecoding/BurgerJuly/master/resBurgers/burger/burger4.jpg"
     }
 ]
